@@ -13,6 +13,6 @@ basic video annotation program
 * run python handotate.py
 * hit the keys indicated on the window to label each frame and auto-advance
 
-hit q to exit
+* hit q to exit
 
-to setup the labels, edit the labels.yaml file
+* to setup the labels, edit the labels.yaml file
