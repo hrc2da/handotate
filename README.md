@@ -18,3 +18,6 @@ basic video annotation program
 ** --dir: a directory containing your videos (default 'vid')
 ** --out: a directory where the .csv files will be output (default 'out')
 ** --labels: the labels .yaml file (default 'labels.yaml')
+
+
+disclaimers: haven't tested w/more than one video file. haven't really tested if the output file is correct at all.
