@@ -15,34 +15,6 @@ def process_label(key_pressed,labels):
             return labels[k[1]]
     return None
 
-# labels = {
-#     "Attn": {
-#         "b": "Bottle",
-#         "h": "Handover Position",
-#         "f": "Receiver's Face"
-#     },
-#     "Face": {
-#         "b": "Bottle",
-#         "h": "Handover Position",
-#         "f": "Receiver's Face"
-#     },
-#     "LongAttn-Face": {
-#         "b": "Bottle",
-#         "h": "Handover Position",
-#         "f": "Receiver's Face"
-#     },
-#     "ShortFace-Attn": {
-#         "b": "Bottle",
-#         "h": "Handover Position",
-#         "f": "Receiver's Face"
-#     },
-#     "LongFace-Attn": {
-#         "b": "Bottle",
-#         "h": "Handover Position",
-#         "f": "Receiver's Face"
-#     }
-
-# }
 
 if __name__=='__main__':
 
